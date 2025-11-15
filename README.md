@@ -1,7 +1,7 @@
 ## Prototype Development for Image Generation Using the Stable Diffusion Model and Gradio Framework
 
 ### AIM:
-To design and deploy a prototype application for image generation utilizing the Stable Diffusion model, integrated with the Gradio UI framework for interactive user engagement and evaluation.
+To design and deploy a prototype application for image generation utilizing the Stable  "kjhgfdsa " Diffusion model, integrated with the Gradio UI framework for interactive user engagement and evaluation.
 
 ### PROBLEM STATEMENT:
 Image generation from textual prompts has broad applications, from creative art to design prototyping and content creation. Stable Diffusion is a state-of-the-art model known for generating realistic and creative images. By integrating Stable Diffusion with Gradio, this project aims to provide a simple and accessible tool for generating images based on user input, catering to artists, designers, and casual users.
